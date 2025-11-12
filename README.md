@@ -10,3 +10,7 @@ Perfeito para quem quer conversar sobre lançamentos, história e curiosidades d
 > 🧠 Acesse a demo local com:
 ```bash
 streamlit run app.py
+
+> 🧠 Acesse o site da demo com:
+```bash
+(https://sneakers-ai.streamlit.app/)
